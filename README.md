@@ -1,3 +1,3 @@
 # 404-Page
 
-https://salimkaba.github.io/404-page/
+https://salimkaba.github.io/404-salim/
